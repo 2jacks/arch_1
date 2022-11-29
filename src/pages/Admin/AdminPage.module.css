@@ -1,0 +1,34 @@
+.layout {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding: 30px;
+}
+
+.tabs {
+	width: 100%;
+	height: 600px;
+	padding: 10px 30px 30px;
+}
+
+.table-wrapper {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	align-items: flex-start;
+}
+
+.table {
+	width: 100%;
+	height: 400px;
+	margin-top: 20px;
+}
+
+.table h3 {
+	margin-bottom: 15px;
+}
+
+.header {
+	display: flex;
+	gap: 20px
+}
